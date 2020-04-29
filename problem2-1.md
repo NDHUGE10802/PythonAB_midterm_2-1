@@ -6,3 +6,4 @@
 6.vi problem2-1.md 
 7.git push origin master 
 8.最後在網站發PR要求合併
+![image](https://github.com/JimmyLu0303/PythonAB_midterm_2-1/blob/master/2-1.png)
